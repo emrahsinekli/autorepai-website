@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "siteName": "Auto RepAI",
+    "tagline": "面向 WordPress 的 AI 内容生成器",
+    "description": "Auto RepAI 是面向 WordPress 的一体化 AI 内容生成器。使用 OpenAI、Claude、Gemini 和 Cohere 生成博客文章、图像，转录 YouTube 视频和音频等。",
+    "keywords": "WordPress AI 插件, AI 内容生成器, ChatGPT WordPress, Claude WordPress, Gemini WordPress, AI 博客写作, YouTube 转博客, 音频转博客, AI 图像生成器, AI 聊天机器人, SEO 分析器"
+  },
+  "nav": {
+    "home": "首页",
+    "features": "功能",
+    "pricing": "定价",
+    "docs": "文档",
+    "support": "支持",
+    "install": "安装插件",
+    "openMenu": "打开菜单",
+    "closeMenu": "关闭菜单",
+    "language": "语言"
+  },
+  "hero": {
+    "badge": "WordPress 插件 · v1.2.6",
+    "title": "将 WordPress 打造成",
+    "titleAccent": "AI 内容工作室",
+    "subtitle": "在 WordPress 后台即可生成博客文章、AI 图像、转录视频、构建聊天机器人并自动回复评论——全部由 OpenAI、Claude、Gemini 和 Cohere 驱动。",
+    "ctaPrimary": "免费安装",
+    "ctaSecondary": "查看功能",
+    "trustBadge": "受到全球内容创作者的信赖",
+    "freePlan": "包含免费方案",
+    "noCreditCard": "无需信用卡",
+    "openSource": "开源"
+  },
+  "stats": {
+    "providers": "AI 提供商",
+    "features": "内置工具",
+    "languages": "支持语言",
+    "freeMonthly": "每月免费次数"
+  },
+  "features": {
+    "title": "扩展内容所需的一切",
+    "subtitle": "18 款强大的 AI 工具，集成于一个 WordPress 插件中",
+    "contentGen": {
+      "title": "内容生成器",
+      "desc": "使用 OpenAI、Claude、Gemini 或 Cohere，从任意主题生成完整且经过 SEO 优化的博客文章。"
+    },
+    "autoRepair": {
+      "title": "自动修复",
+      "desc": "扫描现有文章，利用 AI 自动修正语法、SEO、可读性和过时信息。"
+    },
+    "imageGen": {
+      "title": "AI 图像生成器",
+      "desc": "无需离开 WordPress，即可使用 DALL·E 3、Stable Diffusion、Flux、Leonardo AI 和 DeepAI 创建特色图像。"
+    },
+    "youtube": {
+      "title": "YouTube 转博客",
+      "desc": "粘贴 YouTube 链接，即可在数秒内从视频转录内容生成结构完整的博客文章。"
+    },
+    "audio": {
+      "title": "音频转博客",
+      "desc": "上传任意音频文件或播客，借助 AI 转录将其转换为可直接发布的精致 WordPress 文章。"
+    },
+    "chatbot": {
+      "title": "AI 聊天机器人",
+      "desc": "在网站上嵌入由 AI 驱动的聊天机器人，配备专属知识库、线索捕获和工单系统。"
+    },
+    "commentReplier": {
+      "title": "AI 评论回复",
+      "desc": "自动为 WordPress 评论生成富有思考的 AI 回复，提升互动效果。"
+    },
+    "internalLinker": {
+      "title": "AI 内链助手",
+      "desc": "让 AI 分析您的内容并推荐相关内链，改善 SEO 和用户体验。"
+    },
+    "notebook": {
+      "title": "AI 笔记本",
+      "desc": "从 Google Docs、网址或笔记中导入内容，再让 AI 转换为可发布的文章。"
+    },
+    "reddit": {
+      "title": "Reddit 调研",
+      "desc": "研究任意子版块中的热门话题与讨论，将其转化为独特的博客内容。"
+    },
+    "multiSource": {
+      "title": "多源生成器",
+      "desc": "将 YouTube、Reddit、RSS、Twitter/X 和自定义网址合并为一篇 AI 生成的内容。"
+    },
+    "workflow": {
+      "title": "工作流工作室",
+      "desc": "以可视化方式构建复杂的内容流水线——串联调研、写作、图像生成与发布。"
+    },
+    "seo": {
+      "title": "SEO 分析器",
+      "desc": "获取任意文章的 AI 驱动 SEO 审计，提供具体且可执行的优化建议。"
+    },
+    "leads": {
+      "title": "线索管理",
+      "desc": "直接在 WordPress 中收集、标记并跟进聊天机器人捕获的线索。"
+    },
+    "brand": {
+      "title": "品牌监测",
+      "desc": "追踪 Reddit、Twitter/X、Bing 与 Google 中对您品牌的提及，并使用 AI 进行回复。"
+    },
+    "quickEdit": {
+      "title": "AI 快速编辑",
+      "desc": "右键点击任何文本，即可在编辑器内使用 AI 进行改写、摘要、扩写或翻译。"
+    }
+  },
+  "providers": {
+    "title": "兼容所有主流 AI 提供商",
+    "subtitle": "使用您自己的 API 密钥。我们绝不存储或代理您的数据。"
+  },
+  "pricing": {
+    "title": "简明定价",
+    "subtitle": "使用您自己的 API 密钥免费开始。仅在需要时升级。",
+    "free": {
+      "name": "免费版",
+      "price": "$0",
+      "period": "永久",
+      "desc": "在 WordPress 上启动 AI 内容所需的一切。",
+      "cta": "立即安装",
+      "features": [
+        "解锁全部 18 款 AI 工具",
+        "支持所有 AI 提供商（OpenAI、Claude、Gemini、Cohere）",
+        "支持所有 AI 模型",
+        "每款工具提供充足的月度额度",
+        "30 天内容历史记录",
+        "社区支持"
+      ]
+    },
+    "pro": {
+      "name": "PRO",
+      "price": "$49",
+      "period": "每年",
+      "desc": "为成长型网站与代理机构提供无限使用。",
+      "cta": "升级",
+      "badge": "最受欢迎",
+      "features": [
+        "包含免费版的所有功能",
+        "所有工具无限次使用",
+        "无限内容历史记录",
+        "优先邮件支持",
+        "抢先体验新功能"
+      ]
+    },
+    "note": "PRO 取消每月的软性上限。所有功能保持一致。您始终使用自己的 AI API 密钥。"
+  },
+  "cta": {
+    "title": "准备好让 AI 开始工作了吗？",
+    "subtitle": "60 秒内即可在任意 WordPress 网站安装 Auto RepAI。使用您自己的 API 密钥，永久免费。",
+    "button": "从 WordPress.org 下载",
+    "secondary": "阅读文档"
+  },
+  "footer": {
+    "tagline": "面向 WordPress 的完整 AI 内容套件。",
+    "product": "产品",
+    "resources": "资源",
+    "legal": "法律",
+    "docs": "文档",
+    "changelog": "更新日志",
+    "github": "GitHub",
+    "wordpress": "WordPress.org",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "contact": "联系我们",
+    "rights": "版权所有。",
+    "madeWith": "为内容创作者而生。"
+  },
+  "docs": {
+    "title": "文档",
+    "subtitle": "开始使用 Auto RepAI 所需的一切。",
+    "gettingStarted": {
+      "title": "快速入门",
+      "install": {
+        "title": "安装",
+        "body": "从 WordPress.org 下载 Auto RepAI，或直接在 WordPress 后台通过「插件 → 添加新插件」安装。激活插件后，您将在管理侧栏中看到 Auto RepAI 菜单。"
+      },
+      "apiKeys": {
+        "title": "添加 API 密钥",
+        "body": "进入 Auto RepAI → 设置 → API 密钥。粘贴至少一家提供商的密钥（建议先从 OpenAI 开始）。密钥将加密存储在您的 WordPress 数据库中，绝不会发送到 Auto RepAI 的服务器。"
+      },
+      "firstPost": {
+        "title": "生成您的第一篇文章",
+        "body": "打开 Auto RepAI → 内容生成器。输入主题，选择提供商和模型，然后点击「生成」。结果将显示在 Gutenberg 编辑器中，可直接审阅并发布。"
+      }
+    },
+    "modules": {
+      "title": "全部模块",
+      "body": "Auto RepAI 提供 18 个模块。每个模块在 Auto RepAI 管理菜单下均有独立页面，并附带内联文档与示例。"
+    },
+    "support": {
+      "title": "支持",
+      "body": "免费用户可在 WordPress.org 支持论坛提问。PRO 用户可享 24 小时响应的优先邮件支持。",
+      "contact": "联系支持"
+    },
+    "changelog": {
+      "title": "更新日志",
+      "body": "最新版本和修复内容均发布在插件的 readme 文件及我们的 GitHub 仓库中。"
+    }
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "updated": "最后更新",
+    "intro": "本隐私政策说明 Auto RepAI（以下称「本插件」「我们」）如何处理数据。Auto RepAI 完全在您自己的 WordPress 安装中运行。",
+    "sections": {
+      "noCollection": {
+        "title": "我们收集的数据",
+        "body": "Auto RepAI 不会在我们的服务器上收集、传输或存储任何个人数据。您生成、编辑或导入的所有内容均保留在您的 WordPress 网站和数据库中。"
+      },
+      "thirdParty": {
+        "title": "第三方 AI 服务",
+        "body": "当您触发 AI 操作时，本插件将使用您提供的 API 密钥，将您的提示词直接发送至您所选择的 AI 提供商（OpenAI、Anthropic、Google、Cohere、Stability、Replicate、Leonardo AI、DeepAI、Bing、YouTube、Twitter/X 或 Reddit）。每家提供商都有各自的隐私政策。插件 readme 中公布了包含直接链接的完整列表。"
+      },
+      "apiKeys": {
+        "title": "您的 API 密钥",
+        "body": "API 密钥存储在您网站的 WordPress 数据库中，在支持的情况下以加密形式静态存储。密钥绝不会离开您的服务器，我们也无法查看。"
+      },
+      "website": {
+        "title": "关于本网站",
+        "body": "autorepai.com 使用尊重隐私的分析工具（Vercel Analytics），不存储任何 Cookie 或个人标识符。本网站不运行任何广告追踪器。"
+      },
+      "contact": {
+        "title": "联系我们",
+        "body": "如有隐私相关问题，请通过 privacy@autorepai.com 与我们联系。"
+      }
+    }
+  },
+  "terms": {
+    "title": "服务条款",
+    "updated": "最后更新",
+    "intro": "安装或使用 Auto RepAI 插件及本网站即表示您同意以下条款。",
+    "sections": {
+      "license": {
+        "title": "许可证",
+        "body": "Auto RepAI 以与 WordPress 相同的 GPLv2 许可证发布。您可以在该条款下自由使用、修改和再分发本插件。"
+      },
+      "apiResponsibility": {
+        "title": "第三方 API 的使用",
+        "body": "Auto RepAI 使用您自己的 API 密钥连接 AI 服务。您需自行遵守每家 AI 提供商的服务条款，并承担由其产生的所有费用。"
+      },
+      "noWarranty": {
+        "title": "免责声明",
+        "body": "本插件按「现状」提供，不附带任何形式的担保。由于 AI 输出具有概率性，您必须在发布前审阅生成的内容。"
+      },
+      "pro": {
+        "title": "PRO 订阅",
+        "body": "PRO 方案的购买通过我们的计费合作伙伴 Freemius 处理。您可随时在账户中取消订阅。购买后 14 天内的退款申请将予以全额受理。"
+      },
+      "changes": {
+        "title": "本条款的变更",
+        "body": "我们可能会不时更新本条款。更新后继续使用本插件即视为接受新的条款。"
+      },
+      "contact": {
+        "title": "联系我们",
+        "body": "有疑问？请通过 support@autorepai.com 联系我们。"
+      }
+    }
+  }
+}

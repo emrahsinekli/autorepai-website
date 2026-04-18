@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "siteName": "Auto RepAI",
+    "tagline": "WordPress için AI İçerik Üretici",
+    "description": "Auto RepAI, WordPress için hepsi bir arada yapay zekâ içerik üreticidir. OpenAI, Claude, Gemini ve Cohere ile blog yazıları, görseller üretin, YouTube videolarını ve sesleri yazıya dökün.",
+    "keywords": "WordPress AI eklentisi, yapay zekâ içerik üretici, ChatGPT WordPress, Claude WordPress, Gemini WordPress, AI blog yazar, YouTube blog, ses yazı, AI görsel üretici, AI chatbot, SEO analiz"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "features": "Özellikler",
+    "pricing": "Fiyatlandırma",
+    "docs": "Dokümantasyon",
+    "support": "Destek",
+    "install": "Eklentiyi Kur",
+    "openMenu": "Menüyü aç",
+    "closeMenu": "Menüyü kapat",
+    "language": "Dil"
+  },
+  "hero": {
+    "badge": "WordPress Eklentisi · v1.2.6",
+    "title": "WordPress'i bir",
+    "titleAccent": "AI İçerik Stüdyosuna çevir",
+    "subtitle": "WordPress panelinden çıkmadan blog yazıları, AI görseller üretin, videoları yazıya dökün, chatbot kurun, yorumları otomatik yanıtlayın. OpenAI, Claude, Gemini ve Cohere ile güçlendirilmiştir.",
+    "ctaPrimary": "Ücretsiz Kur",
+    "ctaSecondary": "Özellikleri Gör",
+    "trustBadge": "Dünya genelinde içerik üreticileri tarafından tercih ediliyor",
+    "freePlan": "Ücretsiz plan dahil",
+    "noCreditCard": "Kredi kartı gerekmez",
+    "openSource": "Açık kaynak"
+  },
+  "stats": {
+    "providers": "AI Sağlayıcı",
+    "features": "Dahili Araç",
+    "languages": "Dil",
+    "freeMonthly": "Aylık Ücretsiz Kullanım"
+  },
+  "features": {
+    "title": "İçerik üretimini ölçeklendirmek için ihtiyacın olan her şey",
+    "subtitle": "Tek WordPress eklentisinde 18 güçlü AI aracı",
+    "contentGen": {
+      "title": "İçerik Üretici",
+      "desc": "OpenAI, Claude, Gemini veya Cohere kullanarak herhangi bir konuda tam uzunluktaki SEO uyumlu blog yazıları üret."
+    },
+    "autoRepair": {
+      "title": "Otomatik Onarım",
+      "desc": "Mevcut yazıları tarayıp dil bilgisi, SEO, okunabilirlik ve güncel olmayan bilgileri AI ile otomatik düzelt."
+    },
+    "imageGen": {
+      "title": "AI Görsel Üretici",
+      "desc": "DALL·E 3, Stable Diffusion, Flux, Leonardo AI ve DeepAI ile WordPress içinden çıkmadan öne çıkan görseller oluştur."
+    },
+    "youtube": {
+      "title": "YouTube'dan Blog'a",
+      "desc": "Bir YouTube bağlantısı yapıştır, videonun transkriptinden saniyeler içinde tam bir blog yazısı al."
+    },
+    "audio": {
+      "title": "Ses'ten Blog'a",
+      "desc": "Ses veya podcast dosyalarını yükle, AI transkripsiyon ile yayınlanmaya hazır WordPress yazısına dönüştür."
+    },
+    "chatbot": {
+      "title": "AI Chatbot",
+      "desc": "Kendi bilgi tabanın, potansiyel müşteri yakalama ve destek talebi sistemiyle sitenize AI chatbot göm."
+    },
+    "commentReplier": {
+      "title": "AI Yorum Yanıtlayıcı",
+      "desc": "WordPress yorumlarına katılımı artırmak için AI tarafından üretilen özgün yanıtlar al."
+    },
+    "internalLinker": {
+      "title": "AI İç Bağlantı Aracı",
+      "desc": "AI'nın içeriğini analiz etmesine izin ver, SEO ve kullanıcı deneyimini artıracak iç bağlantı önerileri al."
+    },
+    "notebook": {
+      "title": "AI Not Defteri",
+      "desc": "Google Docs, URL veya kendi notlarından içerik çek, AI ile yayınlanabilir makalelere dönüştür."
+    },
+    "reddit": {
+      "title": "Reddit Araştırması",
+      "desc": "Herhangi bir subreddit'ten gündemdeki konuları ve tartışmaları araştırıp özgün blog içeriğine dönüştür."
+    },
+    "multiSource": {
+      "title": "Çoklu Kaynak Üreticisi",
+      "desc": "YouTube, Reddit, RSS, Twitter/X ve özel URL'leri tek bir AI tarafından üretilmiş içerikte birleştir."
+    },
+    "workflow": {
+      "title": "İş Akışı Stüdyosu",
+      "desc": "Görsel olarak karmaşık içerik hatları kur — araştırma, yazma, görsel üretimi ve yayını zincirle."
+    },
+    "seo": {
+      "title": "SEO Analizcisi",
+      "desc": "Her yazı için AI destekli SEO denetimi al ve somut, uygulanabilir öneriler edinin."
+    },
+    "leads": {
+      "title": "Potansiyel Yönetimi",
+      "desc": "Chatbot'unun topladığı potansiyel müşterileri WordPress içinden topla, etiketle ve takip et."
+    },
+    "brand": {
+      "title": "Marka İzleme",
+      "desc": "Markanın Reddit, Twitter/X, Bing ve Google'daki anılmalarını izle ve AI ile yanıtla."
+    },
+    "quickEdit": {
+      "title": "Hızlı AI Düzenleme",
+      "desc": "Herhangi bir metne sağ tıkla — AI ile yeniden yaz, özetle, genişlet veya çevir. Editör içinde."
+    }
+  },
+  "providers": {
+    "title": "Tüm büyük AI sağlayıcıları ile çalışır",
+    "subtitle": "Kendi API anahtarını getir. Verilerini asla saklamaz veya proxy'lemeyiz."
+  },
+  "pricing": {
+    "title": "Basit fiyatlandırma",
+    "subtitle": "Kendi API anahtarlarınla ücretsiz başla. Sadece daha fazlasına ihtiyaç duyduğunda yükselt.",
+    "free": {
+      "name": "Ücretsiz",
+      "price": "$0",
+      "period": "sonsuza dek",
+      "desc": "WordPress'te AI içerik başlatmak için ihtiyacın olan her şey.",
+      "cta": "Hemen kur",
+      "features": [
+        "18 AI aracının tamamı açık",
+        "Tüm AI sağlayıcılar (OpenAI, Claude, Gemini, Cohere)",
+        "Tüm AI modelleri",
+        "Araç başına cömert aylık kullanım",
+        "30 gün içerik geçmişi",
+        "Topluluk desteği"
+      ]
+    },
+    "pro": {
+      "name": "PRO",
+      "price": "$49",
+      "period": "yılda",
+      "desc": "Büyüyen siteler ve ajanslar için sınırsız kullanım.",
+      "cta": "Yükselt",
+      "badge": "En popüler",
+      "features": [
+        "Ücretsiz plandaki her şey",
+        "Tüm araçlar için sınırsız kullanım",
+        "Sınırsız içerik geçmişi",
+        "Öncelikli e-posta desteği",
+        "Yeni özelliklere erken erişim"
+      ]
+    },
+    "note": "PRO, aylık yumuşak sınırı kaldırır. Tüm özellikler aynı kalır. Her zaman kendi AI API anahtarlarını kullanırsın."
+  },
+  "cta": {
+    "title": "AI'ı işe koşmaya hazır mısın?",
+    "subtitle": "Auto RepAI'ı herhangi bir WordPress sitesine 60 saniyede kur. Kendi API anahtarlarınla sonsuza dek ücretsiz.",
+    "button": "WordPress.org'dan indir",
+    "secondary": "Dokümanı oku"
+  },
+  "footer": {
+    "tagline": "WordPress için eksiksiz AI içerik paketi.",
+    "product": "Ürün",
+    "resources": "Kaynaklar",
+    "legal": "Yasal",
+    "docs": "Dokümantasyon",
+    "changelog": "Değişiklik Günlüğü",
+    "github": "GitHub",
+    "wordpress": "WordPress.org",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Koşulları",
+    "contact": "İletişim",
+    "rights": "Tüm hakları saklıdır.",
+    "madeWith": "İçerik üreticileri için yapıldı."
+  },
+  "docs": {
+    "title": "Dokümantasyon",
+    "subtitle": "Auto RepAI'a başlamak için ihtiyacın olan her şey.",
+    "gettingStarted": {
+      "title": "Başlarken",
+      "install": {
+        "title": "Kurulum",
+        "body": "Auto RepAI'ı WordPress.org'dan indir veya WordPress panelinden Eklentiler → Yeni Ekle üzerinden doğrudan kur. Eklentiyi etkinleştirdiğinde admin yan menüsünde Auto RepAI menüsünü görürsün."
+      },
+      "apiKeys": {
+        "title": "API Anahtarları Ekleme",
+        "body": "Auto RepAI → Ayarlar → API Anahtarları bölümüne git. En az bir sağlayıcının anahtarını yapıştır (başlamak için OpenAI önerilir). Anahtarlar WordPress veritabanında şifrelenmiş olarak saklanır; Auto RepAI sunucularına asla gönderilmez."
+      },
+      "firstPost": {
+        "title": "İlk Yazını Üretme",
+        "body": "Auto RepAI → İçerik Üretici'yi aç. Bir konu gir, sağlayıcı ve model seç, Üret'e bas. Sonuç Gutenberg editöründe inceleme ve yayınlama için hazır görünür."
+      }
+    },
+    "modules": {
+      "title": "Tüm Modüller",
+      "body": "Auto RepAI 18 modülle gelir. Her modülün Auto RepAI admin menüsünde kendi sayfası vardır; satır içi dokümantasyon ve örnekler içerir."
+    },
+    "support": {
+      "title": "Destek",
+      "body": "Ücretsiz kullanıcılar WordPress.org destek forumunda soru sorabilir. PRO kullanıcıları 24 saatlik yanıt süresiyle öncelikli e-posta desteği alır.",
+      "contact": "Destekle iletişim"
+    },
+    "changelog": {
+      "title": "Değişiklik Günlüğü",
+      "body": "En son sürümler ve düzeltmeler eklenti readme dosyasında ve GitHub deposunda listelenir."
+    }
+  },
+  "privacy": {
+    "title": "Gizlilik Politikası",
+    "updated": "Son güncelleme",
+    "intro": "Bu Gizlilik Politikası, Auto RepAI'ın (\"Eklenti\", \"biz\") verileri nasıl işlediğini açıklar. Auto RepAI tamamen kendi WordPress kurulumunun içinde çalışır.",
+    "sections": {
+      "noCollection": {
+        "title": "Topladığımız Veriler",
+        "body": "Auto RepAI sunucularımızda hiçbir kişisel veri toplamaz, iletmez veya saklamaz. Ürettiğin, düzenlediğin veya içeri aldığın tüm içerik WordPress sitende ve veritabanında kalır."
+      },
+      "thirdParty": {
+        "title": "Üçüncü Taraf AI Hizmetleri",
+        "body": "Bir AI eylemi tetiklediğinde, Eklenti isteğini seçtiğin sağlayıcıya (OpenAI, Anthropic, Google, Cohere, Stability, Replicate, Leonardo AI, DeepAI, Bing, YouTube, Twitter/X veya Reddit) kendi verdiğin API anahtarı ile doğrudan gönderir. Her sağlayıcının kendi gizlilik politikası vardır. Eklenti readme'sinde doğrudan bağlantılarla tam bir liste yayınlanır."
+      },
+      "apiKeys": {
+        "title": "API Anahtarların",
+        "body": "API anahtarları WordPress veritabanında saklanır ve desteklenen yerlerde şifrelenir. Anahtarlar sunucundan ayrılmaz ve bizim tarafımızdan asla görülemez."
+      },
+      "website": {
+        "title": "Bu Web Sitesi",
+        "body": "autorepai.com, çerez ve kişisel tanımlayıcı saklamayan gizlilik odaklı analitikler (Vercel Analytics) kullanır. Site reklam izleyicileri çalıştırmaz."
+      },
+      "contact": {
+        "title": "İletişim",
+        "body": "Gizlilik soruları için privacy@autorepai.com adresinden bize ulaş."
+      }
+    }
+  },
+  "terms": {
+    "title": "Kullanım Koşulları",
+    "updated": "Son güncelleme",
+    "intro": "Auto RepAI eklentisini ve bu web sitesini kurarak veya kullanarak aşağıdaki koşulları kabul etmiş olursun.",
+    "sections": {
+      "license": {
+        "title": "Lisans",
+        "body": "Auto RepAI, WordPress ile eşleşen GPLv2 lisansı altında yayınlanır. Eklentiyi bu koşullar altında özgürce kullanabilir, değiştirebilir ve dağıtabilirsin."
+      },
+      "apiResponsibility": {
+        "title": "Üçüncü Taraf API'lerin Kullanımı",
+        "body": "Auto RepAI, kendi API anahtarlarını kullanarak AI hizmetlerine bağlanır. Her AI sağlayıcısının hizmet şartlarına uymak ve onların tahsil ettiği herhangi bir masraftan yalnızca sen sorumlusun."
+      },
+      "noWarranty": {
+        "title": "Garanti Yok",
+        "body": "Eklenti \"olduğu gibi\" hiçbir türden garanti olmaksızın sağlanır. AI çıktısı olasılıksal olduğundan, yayınlamadan önce üretilen içeriği incelemelisin."
+      },
+      "pro": {
+        "title": "PRO Aboneliği",
+        "body": "PRO plan satın alımları faturalandırma ortağımız Freemius tarafından işlenir. Hesabından dilediğin zaman iptal edebilirsin. Satın alma tarihinden itibaren 14 gün içindeki iade talepleri tam olarak karşılanır."
+      },
+      "changes": {
+        "title": "Koşullardaki Değişiklikler",
+        "body": "Bu koşulları zaman zaman güncelleyebiliriz. Bir güncellemeden sonra eklentiyi kullanmaya devam etmen yeni koşulları kabul ettiğin anlamına gelir."
+      },
+      "contact": {
+        "title": "İletişim",
+        "body": "Sorular? support@autorepai.com adresinden bize ulaş."
+      }
+    }
+  }
+}

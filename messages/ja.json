@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "siteName": "Auto RepAI",
+    "tagline": "WordPress向けAIコンテンツジェネレーター",
+    "description": "Auto RepAIは、WordPress向けのオールインワンAIコンテンツジェネレーターです。OpenAI、Claude、Gemini、Cohereを活用して、ブログ記事や画像の生成、YouTube動画や音声の文字起こしなどを実現します。",
+    "keywords": "WordPress AIプラグイン, AIコンテンツジェネレーター, ChatGPT WordPress, Claude WordPress, Gemini WordPress, AIブログライター, YouTubeからブログ, 音声からブログ, AI画像生成, AIチャットボット, SEO分析"
+  },
+  "nav": {
+    "home": "ホーム",
+    "features": "機能",
+    "pricing": "料金",
+    "docs": "ドキュメント",
+    "support": "サポート",
+    "install": "プラグインをインストール",
+    "openMenu": "メニューを開く",
+    "closeMenu": "メニューを閉じる",
+    "language": "言語"
+  },
+  "hero": {
+    "badge": "WordPressプラグイン · v1.2.6",
+    "title": "WordPressを次世代の",
+    "titleAccent": "AIコンテンツスタジオへ",
+    "subtitle": "ブログ記事やAI画像の生成、動画の文字起こし、チャットボットの構築、コメントへの自動返信まで、すべてWordPress管理画面内で完結。OpenAI、Claude、Gemini、Cohereが原動力です。",
+    "ctaPrimary": "無料でインストール",
+    "ctaSecondary": "機能を見る",
+    "trustBadge": "世界中のコンテンツクリエイターに信頼されています",
+    "freePlan": "無料プランあり",
+    "noCreditCard": "クレジットカード不要",
+    "openSource": "オープンソース"
+  },
+  "stats": {
+    "providers": "AIプロバイダー",
+    "features": "内蔵ツール",
+    "languages": "対応言語",
+    "freeMonthly": "毎月の無料利用回数"
+  },
+  "features": {
+    "title": "コンテンツをスケールさせるすべての機能",
+    "subtitle": "18種類の強力なAI駆動ツールを1つのWordPressプラグインに集約",
+    "contentGen": {
+      "title": "コンテンツジェネレーター",
+      "desc": "OpenAI、Claude、Gemini、Cohereを使って、任意のトピックからSEO最適化された本格的なブログ記事を生成します。"
+    },
+    "autoRepair": {
+      "title": "自動修復",
+      "desc": "既存の投稿をスキャンし、文法、SEO、可読性、古くなった情報をAIで自動的に修正します。"
+    },
+    "imageGen": {
+      "title": "AI画像ジェネレーター",
+      "desc": "DALL·E 3、Stable Diffusion、Flux、Leonardo AI、DeepAIを使って、WordPressを離れることなくアイキャッチ画像を作成できます。"
+    },
+    "youtube": {
+      "title": "YouTubeからブログへ",
+      "desc": "YouTubeのURLを貼り付けるだけで、動画の文字起こしから構造化された完全なブログ記事を数秒で作成します。"
+    },
+    "audio": {
+      "title": "音声からブログへ",
+      "desc": "任意の音声ファイルやポッドキャストをアップロードし、AI文字起こしで洗練された公開可能なWordPress投稿に変換します。"
+    },
+    "chatbot": {
+      "title": "AIチャットボット",
+      "desc": "独自のナレッジベース、リード獲得、チケットシステムを備えたAI搭載チャットボットをサイトに埋め込めます。"
+    },
+    "commentReplier": {
+      "title": "AIコメント返信ツール",
+      "desc": "WordPressのコメントに対して、思慮深いAIの返信を自動生成し、エンゲージメントを向上させます。"
+    },
+    "internalLinker": {
+      "title": "AI内部リンカー",
+      "desc": "AIがコンテンツを分析し、SEOとユーザー体験を向上させる関連内部リンクを提案します。"
+    },
+    "notebook": {
+      "title": "AIノートブック",
+      "desc": "Googleドキュメント、URL、メモからコンテンツをインポートし、AIが公開可能な記事へと変換します。"
+    },
+    "reddit": {
+      "title": "Redditリサーチ",
+      "desc": "任意のサブレディットからトレンドのトピックやディスカッションをリサーチし、ユニークなブログコンテンツに変換します。"
+    },
+    "multiSource": {
+      "title": "マルチソースジェネレーター",
+      "desc": "YouTube、Reddit、RSS、Twitter/X、カスタムURLを組み合わせて、一つのAI生成コンテンツに仕上げます。"
+    },
+    "workflow": {
+      "title": "ワークフロースタジオ",
+      "desc": "複雑なコンテンツパイプラインをビジュアルで構築。リサーチ、執筆、画像生成、公開を連鎖させます。"
+    },
+    "seo": {
+      "title": "SEOアナライザー",
+      "desc": "任意の投稿のAI駆動SEO監査を実施し、具体的で実行可能な改善提案を取得します。"
+    },
+    "leads": {
+      "title": "リード管理",
+      "desc": "チャットボットで獲得したリードをWordPressから直接収集、タグ付け、フォローアップできます。"
+    },
+    "brand": {
+      "title": "ブランドモニター",
+      "desc": "Reddit、Twitter/X、Bing、Googleでブランドの言及を追跡し、AIで返信します。"
+    },
+    "quickEdit": {
+      "title": "クイックAI編集",
+      "desc": "任意のテキストを右クリックして、エディタ内でAIによる書き換え、要約、拡張、翻訳を実行できます。"
+    }
+  },
+  "providers": {
+    "title": "すべての主要AIプロバイダーに対応",
+    "subtitle": "ご自身のAPIキーをお使いください。データの保存やプロキシは一切行いません。"
+  },
+  "pricing": {
+    "title": "シンプルな料金体系",
+    "subtitle": "ご自身のAPIキーで無料からスタート。必要になったときだけアップグレード。",
+    "free": {
+      "name": "無料",
+      "price": "$0",
+      "period": "永久",
+      "desc": "WordPressでAIコンテンツを始めるために必要なすべてが揃っています。",
+      "cta": "今すぐインストール",
+      "features": [
+        "18種類すべてのAIツールを解放",
+        "すべてのAIプロバイダー（OpenAI、Claude、Gemini、Cohere）",
+        "すべてのAIモデル",
+        "ツールごとに十分な月間利用枠",
+        "30日間のコンテンツ履歴",
+        "コミュニティサポート"
+      ]
+    },
+    "pro": {
+      "name": "PRO",
+      "price": "$49",
+      "period": "年額",
+      "desc": "成長するサイトや代理店向けの無制限利用プラン。",
+      "cta": "アップグレード",
+      "badge": "最も人気",
+      "features": [
+        "無料プランのすべての機能",
+        "すべてのツールで無制限利用",
+        "無制限のコンテンツ履歴",
+        "優先メールサポート",
+        "新機能への早期アクセス"
+      ]
+    },
+    "note": "PROは月間のソフト上限を解除します。すべての機能は共通のままです。常にご自身のAI APIキーを使用します。"
+  },
+  "cta": {
+    "title": "AIを活用する準備はできましたか？",
+    "subtitle": "Auto RepAIはどのWordPressサイトにも60秒でインストール可能。ご自身のAPIキーで永久無料。",
+    "button": "WordPress.orgからダウンロード",
+    "secondary": "ドキュメントを読む"
+  },
+  "footer": {
+    "tagline": "WordPress向けの完全なAIコンテンツスイート。",
+    "product": "プロダクト",
+    "resources": "リソース",
+    "legal": "法的情報",
+    "docs": "ドキュメント",
+    "changelog": "変更履歴",
+    "github": "GitHub",
+    "wordpress": "WordPress.org",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "contact": "お問い合わせ",
+    "rights": "無断転載を禁じます。",
+    "madeWith": "コンテンツクリエイターのために作られました。"
+  },
+  "docs": {
+    "title": "ドキュメント",
+    "subtitle": "Auto RepAIを使い始めるために必要なすべて。",
+    "gettingStarted": {
+      "title": "はじめに",
+      "install": {
+        "title": "インストール",
+        "body": "Auto RepAIをWordPress.orgからダウンロードするか、WordPress管理画面の「プラグイン → 新規追加」から直接インストールします。プラグインを有効化すると、管理サイドバーにAuto RepAIメニューが表示されます。"
+      },
+      "apiKeys": {
+        "title": "APIキーの追加",
+        "body": "Auto RepAI → 設定 → APIキー に進みます。少なくとも1つのプロバイダーのキーを貼り付けてください（はじめはOpenAIがおすすめです）。キーはWordPressデータベース内で暗号化して保存され、Auto RepAIのサーバーに送信されることはありません。"
+      },
+      "firstPost": {
+        "title": "最初の記事を生成する",
+        "body": "Auto RepAI → コンテンツジェネレーター を開きます。トピックを入力し、プロバイダーとモデルを選択して「生成」をクリック。結果はGutenbergエディタに表示され、確認して公開できます。"
+      }
+    },
+    "modules": {
+      "title": "すべてのモジュール",
+      "body": "Auto RepAIには18のモジュールが含まれています。各モジュールはAuto RepAI管理メニュー配下に独自のページを持ち、インラインドキュメントとサンプルを備えています。"
+    },
+    "support": {
+      "title": "サポート",
+      "body": "無料ユーザーはWordPress.orgサポートフォーラムで質問できます。PROユーザーは24時間以内の応答を保証する優先メールサポートをご利用いただけます。",
+      "contact": "サポートに連絡"
+    },
+    "changelog": {
+      "title": "変更履歴",
+      "body": "最新のリリースと修正内容はプラグインのreadmeおよびGitHubリポジトリに掲載されています。"
+    }
+  },
+  "privacy": {
+    "title": "プライバシーポリシー",
+    "updated": "最終更新日",
+    "intro": "本プライバシーポリシーは、Auto RepAI（以下「本プラグイン」「当方」）がデータをどのように取り扱うかを説明するものです。Auto RepAIはお客様のWordPressインストール内で完全に動作します。",
+    "sections": {
+      "noCollection": {
+        "title": "収集するデータ",
+        "body": "Auto RepAIは当方のサーバー上で個人データを収集、送信、保存することは一切ありません。生成、編集、インポートされたすべてのコンテンツは、お客様のWordPressサイトとデータベース内に留まります。"
+      },
+      "thirdParty": {
+        "title": "サードパーティAIサービス",
+        "body": "AIアクションを実行すると、本プラグインはお客様が提供したAPIキーを使用して、選択したAIプロバイダー（OpenAI、Anthropic、Google、Cohere、Stability、Replicate、Leonardo AI、DeepAI、Bing、YouTube、Twitter/X、Reddit）にプロンプトを直接送信します。各プロバイダーには独自のプライバシーポリシーがあります。直接リンク付きの完全なリストはプラグインのreadmeに掲載されています。"
+      },
+      "apiKeys": {
+        "title": "お客様のAPIキー",
+        "body": "APIキーはお客様のサイトのWordPressデータベースに保存され、サポートされている場合は保存時に暗号化されます。キーがお客様のサーバーを離れることはなく、当方からは閲覧できません。"
+      },
+      "website": {
+        "title": "本ウェブサイトについて",
+        "body": "autorepai.comは、Cookieや個人識別子を保存しないプライバシー重視の分析ツール（Vercel Analytics）を使用しています。本サイトは広告トラッカーを一切実行していません。"
+      },
+      "contact": {
+        "title": "お問い合わせ",
+        "body": "プライバシーに関するご質問は privacy@autorepai.com までご連絡ください。"
+      }
+    }
+  },
+  "terms": {
+    "title": "利用規約",
+    "updated": "最終更新日",
+    "intro": "Auto RepAIプラグインおよび本ウェブサイトをインストールまたは使用することにより、お客様は以下の規約に同意したものとみなされます。",
+    "sections": {
+      "license": {
+        "title": "ライセンス",
+        "body": "Auto RepAIはWordPress本体と同じくGPLv2ライセンスの下でリリースされています。その条件のもと、プラグインを自由に使用、改変、再配布することができます。"
+      },
+      "apiResponsibility": {
+        "title": "サードパーティAPIの使用",
+        "body": "Auto RepAIはお客様ご自身のAPIキーを使用してAIサービスに接続します。各AIプロバイダーの利用規約への準拠、およびプロバイダーから請求される料金については、お客様が単独で責任を負います。"
+      },
+      "noWarranty": {
+        "title": "無保証",
+        "body": "本プラグインは「現状のまま」提供され、いかなる種類の保証も伴いません。AIの出力は確率的であるため、公開前に生成されたコンテンツを必ず確認してください。"
+      },
+      "pro": {
+        "title": "PROサブスクリプション",
+        "body": "PROプランの購入は、請求パートナーであるFreemiusを通じて処理されます。アカウントからいつでもキャンセルできます。購入から14日以内の返金リクエストには全額で対応いたします。"
+      },
+      "changes": {
+        "title": "本規約の変更",
+        "body": "当方は本規約を随時更新することがあります。更新後に本プラグインを継続して使用した場合、新しい規約への同意とみなされます。"
+      },
+      "contact": {
+        "title": "お問い合わせ",
+        "body": "ご質問は support@autorepai.com までお寄せください。"
+      }
+    }
+  }
+}

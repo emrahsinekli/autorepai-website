@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "siteName": "Auto RepAI",
+    "tagline": "Gerador de conteúdos com IA para WordPress",
+    "description": "O Auto RepAI é o gerador de conteúdos com IA tudo-em-um para WordPress. Crie artigos de blogue, imagens, transcreva vídeos do YouTube, áudio e muito mais com OpenAI, Claude, Gemini e Cohere.",
+    "keywords": "plugin de IA para WordPress, gerador de conteúdos com IA, ChatGPT WordPress, Claude WordPress, Gemini WordPress, redator de blogue com IA, YouTube para blogue, áudio para blogue, gerador de imagens com IA, chatbot de IA, analisador de SEO"
+  },
+  "nav": {
+    "home": "Início",
+    "features": "Funcionalidades",
+    "pricing": "Preços",
+    "docs": "Documentação",
+    "support": "Suporte",
+    "install": "Instalar plugin",
+    "openMenu": "Abrir menu",
+    "closeMenu": "Fechar menu",
+    "language": "Idioma"
+  },
+  "hero": {
+    "badge": "Plugin para WordPress · v1.2.6",
+    "title": "Transforme o WordPress num",
+    "titleAccent": "Estúdio de conteúdos com IA",
+    "subtitle": "Gere artigos de blogue, imagens com IA, transcreva vídeos, crie chatbots e responda automaticamente a comentários, tudo dentro do seu painel do WordPress. Com a tecnologia de OpenAI, Claude, Gemini e Cohere.",
+    "ctaPrimary": "Instalar gratuitamente",
+    "ctaSecondary": "Ver funcionalidades",
+    "trustBadge": "Utilizado por criadores de conteúdos em todo o mundo",
+    "freePlan": "Plano gratuito incluído",
+    "noCreditCard": "Não é necessário cartão de crédito",
+    "openSource": "Código aberto"
+  },
+  "stats": {
+    "providers": "Fornecedores de IA",
+    "features": "Ferramentas integradas",
+    "languages": "Idiomas",
+    "freeMonthly": "Utilizações gratuitas mensais"
+  },
+  "features": {
+    "title": "Tudo o que precisa para escalar os seus conteúdos",
+    "subtitle": "18 ferramentas poderosas impulsionadas por IA num único plugin para WordPress",
+    "contentGen": {
+      "title": "Gerador de conteúdos",
+      "desc": "Crie artigos de blogue completos e otimizados para SEO sobre qualquer tema usando OpenAI, Claude, Gemini ou Cohere."
+    },
+    "autoRepair": {
+      "title": "Reparação automática",
+      "desc": "Analise artigos existentes e corrija automaticamente gramática, SEO, legibilidade e informação desatualizada com IA."
+    },
+    "imageGen": {
+      "title": "Gerador de imagens com IA",
+      "desc": "Crie imagens destacadas com DALL·E 3, Stable Diffusion, Flux, Leonardo AI e DeepAI sem sair do WordPress."
+    },
+    "youtube": {
+      "title": "YouTube para blogue",
+      "desc": "Cole um URL do YouTube e obtenha em segundos um artigo de blogue completo e estruturado a partir da transcrição do vídeo."
+    },
+    "audio": {
+      "title": "Áudio para blogue",
+      "desc": "Carregue qualquer ficheiro de áudio ou podcast e converta-o num artigo do WordPress refinado e pronto a publicar com transcrição por IA."
+    },
+    "chatbot": {
+      "title": "Chatbot com IA",
+      "desc": "Integre um chatbot com IA no seu site, com a sua própria base de conhecimento, captação de contactos e sistema de tickets."
+    },
+    "commentReplier": {
+      "title": "Resposta automática a comentários com IA",
+      "desc": "Gere automaticamente respostas ponderadas por IA aos comentários do seu WordPress para aumentar o envolvimento."
+    },
+    "internalLinker": {
+      "title": "Hiperligações internas com IA",
+      "desc": "Deixe a IA analisar o seu conteúdo e sugerir hiperligações internas relevantes para melhorar o SEO e a experiência do utilizador."
+    },
+    "notebook": {
+      "title": "Caderno de IA",
+      "desc": "Importe conteúdos do Google Docs, URLs ou notas e deixe a IA transformá-los em artigos prontos a publicar."
+    },
+    "reddit": {
+      "title": "Pesquisa no Reddit",
+      "desc": "Pesquise temas e discussões em tendência de qualquer subreddit e transforme-os em conteúdos de blogue originais."
+    },
+    "multiSource": {
+      "title": "Gerador multifonte",
+      "desc": "Combine YouTube, Reddit, RSS, Twitter/X e URLs personalizados num único conteúdo gerado por IA."
+    },
+    "workflow": {
+      "title": "Estúdio de fluxos de trabalho",
+      "desc": "Construa visualmente pipelines de conteúdo complexos, encadeando pesquisa, redação, geração de imagens e publicação."
+    },
+    "seo": {
+      "title": "Analisador de SEO",
+      "desc": "Obtenha uma auditoria de SEO impulsionada por IA para qualquer artigo, com recomendações concretas e acionáveis."
+    },
+    "leads": {
+      "title": "Gestão de contactos",
+      "desc": "Recolha, etiquete e faça o acompanhamento dos contactos captados pelo seu chatbot diretamente a partir do WordPress."
+    },
+    "brand": {
+      "title": "Monitor de marca",
+      "desc": "Acompanhe as menções à sua marca no Reddit, Twitter/X, Bing e Google e responda com IA."
+    },
+    "quickEdit": {
+      "title": "Edição rápida com IA",
+      "desc": "Clique com o botão direito em qualquer texto para o reescrever, resumir, expandir ou traduzir com IA, diretamente no editor."
+    }
+  },
+  "providers": {
+    "title": "Funciona com todos os principais fornecedores de IA",
+    "subtitle": "Use a sua própria chave de API. Nunca armazenamos nem encaminhamos os seus dados."
+  },
+  "pricing": {
+    "title": "Preços simples",
+    "subtitle": "Comece gratuitamente com as suas próprias chaves de API. Atualize apenas quando precisar de mais.",
+    "free": {
+      "name": "Gratuito",
+      "price": "$0",
+      "period": "para sempre",
+      "desc": "Tudo o que precisa para lançar conteúdos com IA no WordPress.",
+      "cta": "Instalar agora",
+      "features": [
+        "As 18 ferramentas de IA desbloqueadas",
+        "Todos os fornecedores de IA (OpenAI, Claude, Gemini, Cohere)",
+        "Todos os modelos de IA",
+        "Quota mensal generosa por ferramenta",
+        "30 dias de histórico de conteúdos",
+        "Suporte da comunidade"
+      ]
+    },
+    "pro": {
+      "name": "PRO",
+      "price": "$49",
+      "period": "por ano",
+      "desc": "Utilização ilimitada para sites em crescimento e agências.",
+      "cta": "Atualizar",
+      "badge": "O mais popular",
+      "features": [
+        "Tudo o que está incluído no plano Gratuito",
+        "Utilização ilimitada de todas as ferramentas",
+        "Histórico de conteúdos ilimitado",
+        "Suporte prioritário por e-mail",
+        "Acesso antecipado a novas funcionalidades"
+      ]
+    },
+    "note": "O PRO remove o limite mensal flexível. Todas as funcionalidades permanecem idênticas. Utiliza sempre as suas próprias chaves de API de IA."
+  },
+  "cta": {
+    "title": "Pronto para pôr a IA a trabalhar?",
+    "subtitle": "Instale o Auto RepAI em qualquer site WordPress em 60 segundos. Gratuito para sempre com as suas próprias chaves de API.",
+    "button": "Descarregar a partir de WordPress.org",
+    "secondary": "Ler a documentação"
+  },
+  "footer": {
+    "tagline": "A suite completa de conteúdos com IA para WordPress.",
+    "product": "Produto",
+    "resources": "Recursos",
+    "legal": "Legal",
+    "docs": "Documentação",
+    "changelog": "Registo de alterações",
+    "github": "GitHub",
+    "wordpress": "WordPress.org",
+    "privacy": "Política de privacidade",
+    "terms": "Termos de utilização",
+    "contact": "Contacto",
+    "rights": "Todos os direitos reservados.",
+    "madeWith": "Criado para criadores de conteúdos."
+  },
+  "docs": {
+    "title": "Documentação",
+    "subtitle": "Tudo o que precisa para começar com o Auto RepAI.",
+    "gettingStarted": {
+      "title": "Primeiros passos",
+      "install": {
+        "title": "Instalação",
+        "body": "Descarregue o Auto RepAI a partir de WordPress.org ou instale-o diretamente a partir do seu painel do WordPress, em Plugins → Adicionar novo. Ative o plugin e verá o menu Auto RepAI na barra lateral de administração."
+      },
+      "apiKeys": {
+        "title": "Adicionar chaves de API",
+        "body": "Vá a Auto RepAI → Definições → Chaves de API. Cole a chave de, pelo menos, um fornecedor (recomenda-se OpenAI para começar). As chaves são armazenadas cifradas na sua base de dados do WordPress e nunca são enviadas para os servidores do Auto RepAI."
+      },
+      "firstPost": {
+        "title": "Gerar o seu primeiro artigo",
+        "body": "Abra Auto RepAI → Gerador de conteúdos. Introduza um tema, escolha um fornecedor e um modelo e clique em Gerar. O resultado surge no editor Gutenberg pronto para revisão e publicação."
+      }
+    },
+    "modules": {
+      "title": "Todos os módulos",
+      "body": "O Auto RepAI inclui 18 módulos. Cada módulo tem a sua própria página no menu de administração do Auto RepAI, com documentação integrada e exemplos."
+    },
+    "support": {
+      "title": "Suporte",
+      "body": "Os utilizadores gratuitos podem colocar questões no fórum de suporte de WordPress.org. Os utilizadores PRO recebem suporte prioritário por e-mail com tempo de resposta de 24 horas.",
+      "contact": "Contactar o suporte"
+    },
+    "changelog": {
+      "title": "Registo de alterações",
+      "body": "As versões e correções mais recentes estão listadas no readme do plugin e no nosso repositório GitHub."
+    }
+  },
+  "privacy": {
+    "title": "Política de privacidade",
+    "updated": "Última atualização",
+    "intro": "Esta Política de privacidade explica como o Auto RepAI (o «Plugin», «nós») trata os dados. O Auto RepAI funciona inteiramente dentro da sua própria instalação de WordPress.",
+    "sections": {
+      "noCollection": {
+        "title": "Dados que recolhemos",
+        "body": "O Auto RepAI não recolhe, transmite nem armazena quaisquer dados pessoais nos nossos servidores. Todos os conteúdos que cria, edita ou importa permanecem no seu site e na sua base de dados do WordPress."
+      },
+      "thirdParty": {
+        "title": "Serviços de IA de terceiros",
+        "body": "Quando aciona uma ação de IA, o Plugin envia o seu pedido diretamente ao fornecedor de IA que selecionou (OpenAI, Anthropic, Google, Cohere, Stability, Replicate, Leonardo AI, DeepAI, Bing, YouTube, Twitter/X ou Reddit) utilizando a chave de API que forneceu. Cada fornecedor tem a sua própria política de privacidade. Uma lista completa com hiperligações diretas está publicada no readme do plugin."
+      },
+      "apiKeys": {
+        "title": "As suas chaves de API",
+        "body": "As chaves de API são armazenadas na base de dados do WordPress do seu site, cifradas em repouso sempre que suportado. As chaves nunca saem do seu servidor e nunca estão visíveis para nós."
+      },
+      "website": {
+        "title": "Este site",
+        "body": "O autorepai.com utiliza análises respeitadoras da privacidade (Vercel Analytics) que não armazenam cookies nem identificadores pessoais. O site não utiliza rastreadores publicitários."
+      },
+      "contact": {
+        "title": "Contacto",
+        "body": "Para questões de privacidade, contacte-nos em privacy@autorepai.com."
+      }
+    }
+  },
+  "terms": {
+    "title": "Termos de utilização",
+    "updated": "Última atualização",
+    "intro": "Ao instalar ou utilizar o plugin Auto RepAI e este site, concorda com os seguintes termos.",
+    "sections": {
+      "license": {
+        "title": "Licença",
+        "body": "O Auto RepAI é disponibilizado sob a licença GPLv2, a mesma do WordPress. Pode utilizar, modificar e redistribuir o plugin livremente nos termos dessa licença."
+      },
+      "apiResponsibility": {
+        "title": "Utilização de APIs de terceiros",
+        "body": "O Auto RepAI liga-se a serviços de IA usando as suas próprias chaves de API. É o único responsável pelo cumprimento dos termos de utilização de cada fornecedor de IA e pelos custos por eles cobrados."
+      },
+      "noWarranty": {
+        "title": "Sem garantia",
+        "body": "O plugin é fornecido «tal como está», sem qualquer garantia. Uma vez que os resultados da IA são probabilísticos, deve rever o conteúdo gerado antes de publicar."
+      },
+      "pro": {
+        "title": "Subscrição PRO",
+        "body": "As aquisições do plano PRO são processadas pelo nosso parceiro de faturação Freemius. Pode cancelar a qualquer momento a partir da sua conta. Os pedidos de reembolso no prazo de 14 dias após a compra serão integralmente atendidos."
+      },
+      "changes": {
+        "title": "Alterações a estes termos",
+        "body": "Poderemos atualizar estes termos pontualmente. A utilização continuada do plugin após uma atualização constitui a aceitação dos novos termos."
+      },
+      "contact": {
+        "title": "Contacto",
+        "body": "Dúvidas? Contacte-nos em support@autorepai.com."
+      }
+    }
+  }
+}

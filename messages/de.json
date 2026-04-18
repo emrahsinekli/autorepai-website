@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "siteName": "Auto RepAI",
+    "tagline": "KI-Content-Generator für WordPress",
+    "description": "Auto RepAI ist der All-in-One-KI-Content-Generator für WordPress. Erstelle Blogbeiträge, Bilder, transkribiere YouTube-Videos, Audio und vieles mehr mit OpenAI, Claude, Gemini und Cohere.",
+    "keywords": "WordPress KI-Plugin, KI-Content-Generator, ChatGPT WordPress, Claude WordPress, Gemini WordPress, KI-Blog-Autor, YouTube zu Blog, Audio zu Blog, KI-Bildgenerator, KI-Chatbot, SEO-Analyzer"
+  },
+  "nav": {
+    "home": "Startseite",
+    "features": "Funktionen",
+    "pricing": "Preise",
+    "docs": "Dokumentation",
+    "support": "Support",
+    "install": "Plugin installieren",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen",
+    "language": "Sprache"
+  },
+  "hero": {
+    "badge": "WordPress-Plugin · v1.2.6",
+    "title": "Verwandle WordPress in ein",
+    "titleAccent": "KI-Content-Studio",
+    "subtitle": "Erstelle Blogbeiträge, KI-Bilder, transkribiere Videos, baue Chatbots und beantworte Kommentare automatisch – alles direkt in deinem WordPress-Dashboard. Unterstützt von OpenAI, Claude, Gemini und Cohere.",
+    "ctaPrimary": "Kostenlos installieren",
+    "ctaSecondary": "Funktionen ansehen",
+    "trustBadge": "Von Content-Erstellern weltweit geschätzt",
+    "freePlan": "Kostenloser Plan inklusive",
+    "noCreditCard": "Keine Kreditkarte erforderlich",
+    "openSource": "Open Source"
+  },
+  "stats": {
+    "providers": "KI-Anbieter",
+    "features": "Integrierte Tools",
+    "languages": "Sprachen",
+    "freeMonthly": "Kostenlose Nutzungen pro Monat"
+  },
+  "features": {
+    "title": "Alles, was du brauchst, um Content zu skalieren",
+    "subtitle": "18 leistungsstarke KI-Tools in einem einzigen WordPress-Plugin",
+    "contentGen": {
+      "title": "Content-Generator",
+      "desc": "Erstelle vollständige, SEO-optimierte Blogbeiträge zu jedem Thema mit OpenAI, Claude, Gemini oder Cohere."
+    },
+    "autoRepair": {
+      "title": "Auto-Reparatur",
+      "desc": "Scanne bestehende Beiträge und behebe automatisch Grammatik, SEO, Lesbarkeit und veraltete Informationen mit KI."
+    },
+    "imageGen": {
+      "title": "KI-Bildgenerator",
+      "desc": "Erstelle Beitragsbilder mit DALL·E 3, Stable Diffusion, Flux, Leonardo AI und DeepAI, ohne WordPress zu verlassen."
+    },
+    "youtube": {
+      "title": "YouTube zu Blog",
+      "desc": "Füge eine YouTube-URL ein und erhalte in Sekunden einen vollständigen, strukturierten Blogartikel aus dem Video-Transkript."
+    },
+    "audio": {
+      "title": "Audio zu Blog",
+      "desc": "Lade eine beliebige Audiodatei oder einen Podcast hoch und verwandle sie per KI-Transkription in einen veröffentlichungsreifen WordPress-Beitrag."
+    },
+    "chatbot": {
+      "title": "KI-Chatbot",
+      "desc": "Binde einen KI-gestützten Chatbot mit eigener Wissensdatenbank, Lead-Erfassung und Ticketsystem auf deiner Website ein."
+    },
+    "commentReplier": {
+      "title": "KI-Kommentarantwort",
+      "desc": "Generiere automatisch durchdachte KI-Antworten auf deine WordPress-Kommentare, um das Engagement zu steigern."
+    },
+    "internalLinker": {
+      "title": "KI-Interne-Verlinkung",
+      "desc": "Lass die KI deine Inhalte analysieren und relevante interne Links vorschlagen, um SEO und Nutzererlebnis zu verbessern."
+    },
+    "notebook": {
+      "title": "KI-Notizbuch",
+      "desc": "Importiere Inhalte aus Google Docs, URLs oder Notizen und lass die KI sie in veröffentlichungsreife Artikel verwandeln."
+    },
+    "reddit": {
+      "title": "Reddit-Recherche",
+      "desc": "Recherchiere Trendthemen und Diskussionen aus jedem Subreddit und verwandle sie in einzigartige Blog-Inhalte."
+    },
+    "multiSource": {
+      "title": "Multi-Quellen-Generator",
+      "desc": "Kombiniere YouTube, Reddit, RSS, Twitter/X und eigene URLs zu einem einzigen KI-generierten Inhalt."
+    },
+    "workflow": {
+      "title": "Workflow-Studio",
+      "desc": "Baue komplexe Content-Pipelines visuell – verkette Recherche, Schreiben, Bildgenerierung und Veröffentlichung."
+    },
+    "seo": {
+      "title": "SEO-Analyzer",
+      "desc": "Erhalte ein KI-gestütztes SEO-Audit für jeden Beitrag mit konkreten, umsetzbaren Empfehlungen."
+    },
+    "leads": {
+      "title": "Lead-Verwaltung",
+      "desc": "Erfasse, kennzeichne und verfolge Leads, die dein Chatbot gesammelt hat – direkt aus WordPress."
+    },
+    "brand": {
+      "title": "Brand-Monitor",
+      "desc": "Verfolge Erwähnungen deiner Marke auf Reddit, Twitter/X, Bing und Google und antworte mit KI."
+    },
+    "quickEdit": {
+      "title": "Schnelle KI-Bearbeitung",
+      "desc": "Klicke mit der rechten Maustaste auf beliebigen Text, um ihn mit KI umzuschreiben, zusammenzufassen, zu erweitern oder zu übersetzen – direkt im Editor."
+    }
+  },
+  "providers": {
+    "title": "Funktioniert mit allen großen KI-Anbietern",
+    "subtitle": "Nutze deinen eigenen API-Schlüssel. Wir speichern deine Daten nie und leiten sie nicht weiter."
+  },
+  "pricing": {
+    "title": "Einfache Preise",
+    "subtitle": "Starte kostenlos mit deinen eigenen API-Schlüsseln. Upgrade nur, wenn du mehr brauchst.",
+    "free": {
+      "name": "Kostenlos",
+      "price": "$0",
+      "period": "für immer",
+      "desc": "Alles, was du brauchst, um KI-Content in WordPress zu starten.",
+      "cta": "Jetzt installieren",
+      "features": [
+        "Alle 18 KI-Tools freigeschaltet",
+        "Alle KI-Anbieter (OpenAI, Claude, Gemini, Cohere)",
+        "Alle KI-Modelle",
+        "Großzügiges Monatskontingent pro Tool",
+        "30 Tage Content-Verlauf",
+        "Community-Support"
+      ]
+    },
+    "pro": {
+      "name": "PRO",
+      "price": "$49",
+      "period": "pro Jahr",
+      "desc": "Unbegrenzte Nutzung für wachsende Websites und Agenturen.",
+      "cta": "Upgrade",
+      "badge": "Am beliebtesten",
+      "features": [
+        "Alles aus dem kostenlosen Plan",
+        "Unbegrenzte Nutzung aller Tools",
+        "Unbegrenzter Content-Verlauf",
+        "Vorrangiger E-Mail-Support",
+        "Früher Zugriff auf neue Funktionen"
+      ]
+    },
+    "note": "PRO hebt das monatliche Softlimit auf. Alle Funktionen bleiben identisch. Du nutzt stets deine eigenen KI-API-Schlüssel."
+  },
+  "cta": {
+    "title": "Bereit, die KI für dich arbeiten zu lassen?",
+    "subtitle": "Installiere Auto RepAI in 60 Sekunden auf jeder WordPress-Website. Für immer kostenlos mit deinen eigenen API-Schlüsseln.",
+    "button": "Von WordPress.org herunterladen",
+    "secondary": "Dokumentation lesen"
+  },
+  "footer": {
+    "tagline": "Die komplette KI-Content-Suite für WordPress.",
+    "product": "Produkt",
+    "resources": "Ressourcen",
+    "legal": "Rechtliches",
+    "docs": "Dokumentation",
+    "changelog": "Änderungsprotokoll",
+    "github": "GitHub",
+    "wordpress": "WordPress.org",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen",
+    "contact": "Kontakt",
+    "rights": "Alle Rechte vorbehalten.",
+    "madeWith": "Gemacht für Content-Ersteller."
+  },
+  "docs": {
+    "title": "Dokumentation",
+    "subtitle": "Alles, was du brauchst, um mit Auto RepAI loszulegen.",
+    "gettingStarted": {
+      "title": "Erste Schritte",
+      "install": {
+        "title": "Installation",
+        "body": "Lade Auto RepAI von WordPress.org herunter oder installiere es direkt aus deinem WordPress-Dashboard über Plugins → Installieren. Aktiviere das Plugin, und du siehst das Auto-RepAI-Menü in der Admin-Seitenleiste."
+      },
+      "apiKeys": {
+        "title": "API-Schlüssel hinzufügen",
+        "body": "Gehe zu Auto RepAI → Einstellungen → API-Schlüssel. Füge den Schlüssel mindestens eines Anbieters ein (OpenAI wird für den Einstieg empfohlen). Die Schlüssel werden verschlüsselt in deiner WordPress-Datenbank gespeichert und niemals an Auto-RepAI-Server übermittelt."
+      },
+      "firstPost": {
+        "title": "Deinen ersten Beitrag erstellen",
+        "body": "Öffne Auto RepAI → Content-Generator. Gib ein Thema ein, wähle einen Anbieter und ein Modell und klicke auf Generieren. Das Ergebnis erscheint im Gutenberg-Editor, bereit zur Überprüfung und Veröffentlichung."
+      }
+    },
+    "modules": {
+      "title": "Alle Module",
+      "body": "Auto RepAI bringt 18 Module mit. Jedes Modul hat eine eigene Seite im Auto-RepAI-Admin-Menü mit integrierter Dokumentation und Beispielen."
+    },
+    "support": {
+      "title": "Support",
+      "body": "Kostenlose Nutzer können Fragen im Support-Forum von WordPress.org stellen. PRO-Nutzer erhalten vorrangigen E-Mail-Support mit einer Antwortzeit von 24 Stunden.",
+      "contact": "Support kontaktieren"
+    },
+    "changelog": {
+      "title": "Änderungsprotokoll",
+      "body": "Die neuesten Versionen und Korrekturen sind im Readme des Plugins sowie in unserem GitHub-Repository aufgeführt."
+    }
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "updated": "Zuletzt aktualisiert",
+    "intro": "Diese Datenschutzerklärung erläutert, wie Auto RepAI (das „Plugin“, „wir“) mit Daten umgeht. Auto RepAI läuft vollständig innerhalb deiner eigenen WordPress-Installation.",
+    "sections": {
+      "noCollection": {
+        "title": "Erhobene Daten",
+        "body": "Auto RepAI sammelt, überträgt oder speichert keine personenbezogenen Daten auf unseren Servern. Alle Inhalte, die du erstellst, bearbeitest oder importierst, bleiben auf deiner WordPress-Website und in deiner Datenbank."
+      },
+      "thirdParty": {
+        "title": "KI-Dienste von Drittanbietern",
+        "body": "Wenn du eine KI-Aktion auslöst, sendet das Plugin deine Anfrage direkt an den ausgewählten KI-Anbieter (OpenAI, Anthropic, Google, Cohere, Stability, Replicate, Leonardo AI, DeepAI, Bing, YouTube, Twitter/X oder Reddit) mit dem von dir bereitgestellten API-Schlüssel. Jeder Anbieter hat seine eigene Datenschutzerklärung. Eine vollständige Liste mit direkten Links findest du im Readme des Plugins."
+      },
+      "apiKeys": {
+        "title": "Deine API-Schlüssel",
+        "body": "API-Schlüssel werden in der WordPress-Datenbank deiner Website gespeichert und, sofern unterstützt, verschlüsselt abgelegt. Schlüssel verlassen niemals deinen Server und sind für uns nicht einsehbar."
+      },
+      "website": {
+        "title": "Diese Website",
+        "body": "autorepai.com verwendet datenschutzfreundliche Analysen (Vercel Analytics), die keine Cookies und keine personenbezogenen Kennungen speichern. Die Website setzt keine Werbe-Tracker ein."
+      },
+      "contact": {
+        "title": "Kontakt",
+        "body": "Für Datenschutzfragen kontaktiere uns unter privacy@autorepai.com."
+      }
+    }
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "updated": "Zuletzt aktualisiert",
+    "intro": "Mit der Installation oder Nutzung des Auto-RepAI-Plugins und dieser Website erklärst du dich mit den folgenden Bedingungen einverstanden.",
+    "sections": {
+      "license": {
+        "title": "Lizenz",
+        "body": "Auto RepAI wird unter der GPLv2-Lizenz veröffentlicht, derselben Lizenz wie WordPress. Du darfst das Plugin im Rahmen dieser Lizenz frei nutzen, anpassen und weitergeben."
+      },
+      "apiResponsibility": {
+        "title": "Nutzung von Drittanbieter-APIs",
+        "body": "Auto RepAI verbindet sich mit KI-Diensten über deine eigenen API-Schlüssel. Du bist allein dafür verantwortlich, die Nutzungsbedingungen jedes KI-Anbieters einzuhalten und die von diesen berechneten Kosten zu tragen."
+      },
+      "noWarranty": {
+        "title": "Keine Gewährleistung",
+        "body": "Das Plugin wird „wie besehen“ ohne jegliche Gewährleistung bereitgestellt. Da KI-Ausgaben probabilistisch sind, musst du die generierten Inhalte vor der Veröffentlichung prüfen."
+      },
+      "pro": {
+        "title": "PRO-Abonnement",
+        "body": "Käufe des PRO-Plans werden von unserem Abrechnungspartner Freemius abgewickelt. Du kannst jederzeit in deinem Konto kündigen. Rückerstattungsanfragen innerhalb von 14 Tagen nach dem Kauf werden vollständig bearbeitet."
+      },
+      "changes": {
+        "title": "Änderungen dieser Bedingungen",
+        "body": "Wir können diese Bedingungen von Zeit zu Zeit aktualisieren. Die weitere Nutzung des Plugins nach einer Aktualisierung gilt als Zustimmung zu den neuen Bedingungen."
+      },
+      "contact": {
+        "title": "Kontakt",
+        "body": "Fragen? Erreiche uns unter support@autorepai.com."
+      }
+    }
+  }
+}
