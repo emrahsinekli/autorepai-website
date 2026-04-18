@@ -3,7 +3,7 @@
     "siteName": "Auto RepAI",
     "tagline": "Générateur de contenu IA pour WordPress",
     "description": "Auto RepAI est le générateur de contenu IA tout-en-un pour WordPress. Créez des articles de blog, des images, transcrivez des vidéos YouTube, de l'audio et plus encore avec OpenAI, Claude, Gemini et Cohere.",
-    "keywords": "plugin IA WordPress, générateur de contenu IA, ChatGPT WordPress, Claude WordPress, Gemini WordPress, rédacteur de blog IA, YouTube vers blog, audio vers blog, générateur d'images IA, chatbot IA, analyseur SEO"
+    "keywords": "plugin IA WordPress, plugin intelligence artificielle WordPress, générateur contenu IA WordPress, ChatGPT WordPress plugin, Claude WordPress, Gemini WordPress, rédacteur blog IA, convertisseur YouTube vers article, générateur images IA WordPress, DALL-E WordPress, chatbot IA WordPress, analyseur SEO WordPress, plugin IA gratuit, rédaction automatique articles, podcast vers blog IA, maillage interne IA, OpenAI plugin WordPress, automatisation contenu WordPress, extension IA WordPress gratuite, générateur articles IA, outil création contenu IA, transcription audio en texte, réponse commentaires IA, Cohere WordPress, Stable Diffusion WordPress"
   },
   "nav": {
     "home": "Accueil",
@@ -125,9 +125,13 @@
       ]
     },
     "pro": {
-      "name": "PRO",
-      "price": "$49",
+      "name": "Professional",
+      "price": "$83.88",
       "period": "par an",
+      "priceMonth": "$8.99",
+      "priceMonthPeriod": "/ mois",
+      "originalPrice": "$107.88",
+      "discount": "Économisez 22 % avec la facturation annuelle",
       "desc": "Utilisation illimitée pour les sites en croissance et les agences.",
       "cta": "Passer à PRO",
       "badge": "Le plus populaire",

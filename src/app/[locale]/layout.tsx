@@ -22,23 +22,70 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "meta" });
+
+  const SITE = "https://autorepai.com";
   const alternates: Record<string, string> = {};
   for (const l of routing.locales) {
-    alternates[l] = l === routing.defaultLocale ? "/" : `/${l}`;
+    alternates[l] = l === routing.defaultLocale ? `${SITE}/` : `${SITE}/${l}`;
   }
+  alternates["x-default"] = `${SITE}/`;
+
+  const canonical = locale === routing.defaultLocale ? `${SITE}/` : `${SITE}/${locale}`;
+  const title = t("siteName") + " — " + t("tagline");
+
   return {
-    title: { default: t("siteName") + " — " + t("tagline"), template: "%s · " + t("siteName") },
+    metadataBase: new URL(SITE),
+    title: { default: title, template: "%s · " + t("siteName") },
     description: t("description"),
     keywords: t("keywords"),
+    authors: [{ name: "Emrah Sinekli", url: "https://github.com/emrahsinekli" }],
+    creator: "Emrah Sinekli",
+    publisher: t("siteName"),
+    category: "WordPress Plugin",
     alternates: {
-      canonical: locale === routing.defaultLocale ? "/" : `/${locale}`,
+      canonical,
       languages: alternates
     },
     openGraph: {
-      title: t("siteName") + " — " + t("tagline"),
+      title,
       description: t("description"),
+      url: canonical,
+      siteName: t("siteName"),
       locale,
-      type: "website"
+      alternateLocale: routing.locales.filter((l) => l !== locale),
+      type: "website",
+      images: [
+        {
+          url: `${SITE}/og-image.svg`,
+          width: 1200,
+          height: 630,
+          alt: title
+        }
+      ]
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description: t("description"),
+      images: [`${SITE}/og-image.svg`]
+    },
+    robots: {
+      index: true,
+      follow: true,
+      googleBot: {
+        index: true,
+        follow: true,
+        "max-video-preview": -1,
+        "max-image-preview": "large",
+        "max-snippet": -1
+      }
+    },
+    verification: {},
+    icons: {
+      icon: [
+        { url: "/favicon.svg", type: "image/svg+xml" },
+        { url: "/logo.png", type: "image/png" }
+      ]
     }
   };
 }

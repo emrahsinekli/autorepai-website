@@ -3,7 +3,7 @@
     "siteName": "Auto RepAI",
     "tagline": "AI-генератор контента для WordPress",
     "description": "Auto RepAI — это универсальный AI-генератор контента для WordPress. Создавайте статьи и изображения, расшифровывайте видео с YouTube, аудио и многое другое с помощью OpenAI, Claude, Gemini и Cohere.",
-    "keywords": "AI-плагин WordPress, AI-генератор контента, ChatGPT WordPress, Claude WordPress, Gemini WordPress, AI-автор блога, YouTube в блог, аудио в блог, AI-генератор изображений, AI-чатбот, SEO-анализатор"
+    "keywords": "AI плагин WordPress, плагин искусственный интеллект WordPress, AI генератор контента WordPress, ChatGPT плагин WordPress, Claude WordPress, Gemini WordPress, AI автор блога, YouTube в статью конвертер, AI генератор изображений WordPress, DALL-E WordPress, AI чатбот WordPress, SEO анализатор WordPress, бесплатный AI плагин, автоматическое написание статей AI, подкаст в блог AI, внутренняя перелинковка AI, OpenAI плагин WordPress, автоматизация контента WordPress, нейросеть для WordPress, AI копирайтер, генератор статей нейросеть, транскрибация аудио в текст AI, ответы на комментарии AI, Cohere WordPress, Stable Diffusion WordPress"
   },
   "nav": {
     "home": "Главная",
@@ -125,9 +125,13 @@
       ]
     },
     "pro": {
-      "name": "PRO",
-      "price": "$49",
+      "name": "Professional",
+      "price": "$83.88",
       "period": "в год",
+      "priceMonth": "$8.99",
+      "priceMonthPeriod": "/ месяц",
+      "originalPrice": "$107.88",
+      "discount": "Экономьте 22% при годовой оплате",
       "desc": "Неограниченное использование для растущих сайтов и агентств.",
       "cta": "Обновить",
       "badge": "Самый популярный",

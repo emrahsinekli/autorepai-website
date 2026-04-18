@@ -3,7 +3,7 @@
     "siteName": "Auto RepAI",
     "tagline": "KI-Content-Generator für WordPress",
     "description": "Auto RepAI ist der All-in-One-KI-Content-Generator für WordPress. Erstelle Blogbeiträge, Bilder, transkribiere YouTube-Videos, Audio und vieles mehr mit OpenAI, Claude, Gemini und Cohere.",
-    "keywords": "WordPress KI-Plugin, KI-Content-Generator, ChatGPT WordPress, Claude WordPress, Gemini WordPress, KI-Blog-Autor, YouTube zu Blog, Audio zu Blog, KI-Bildgenerator, KI-Chatbot, SEO-Analyzer"
+    "keywords": "WordPress KI Plugin, KI Content Generator WordPress, künstliche Intelligenz WordPress Plugin, ChatGPT WordPress Plugin, Claude WordPress, Gemini WordPress, KI Blog Schreiber, YouTube zu Blog Konverter, KI Bildgenerator WordPress, DALL-E WordPress, KI Chatbot WordPress, SEO Analyzer WordPress, kostenloses KI Plugin, automatische Artikel Erstellung, Podcast zu Blog KI, interne Verlinkung KI, OpenAI WordPress Plugin, Content Automatisierung WordPress, KI Texter WordPress, Blogartikel Generator KI, KI Schreibtool, Audio Transkription Text, Kommentar Antwort KI, Cohere WordPress, Stable Diffusion WordPress"
   },
   "nav": {
     "home": "Startseite",
@@ -125,9 +125,13 @@
       ]
     },
     "pro": {
-      "name": "PRO",
-      "price": "$49",
+      "name": "Professional",
+      "price": "$83.88",
       "period": "pro Jahr",
+      "priceMonth": "$8.99",
+      "priceMonthPeriod": "/ Monat",
+      "originalPrice": "$107.88",
+      "discount": "Spare 22 % mit der Jahresabrechnung",
       "desc": "Unbegrenzte Nutzung für wachsende Websites und Agenturen.",
       "cta": "Upgrade",
       "badge": "Am beliebtesten",

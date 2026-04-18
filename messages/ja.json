@@ -3,7 +3,7 @@
     "siteName": "Auto RepAI",
     "tagline": "WordPress向けAIコンテンツジェネレーター",
     "description": "Auto RepAIは、WordPress向けのオールインワンAIコンテンツジェネレーターです。OpenAI、Claude、Gemini、Cohereを活用して、ブログ記事や画像の生成、YouTube動画や音声の文字起こしなどを実現します。",
-    "keywords": "WordPress AIプラグイン, AIコンテンツジェネレーター, ChatGPT WordPress, Claude WordPress, Gemini WordPress, AIブログライター, YouTubeからブログ, 音声からブログ, AI画像生成, AIチャットボット, SEO分析"
+    "keywords": "WordPress AIプラグイン, AIコンテンツ生成 WordPress, 人工知能 WordPress プラグイン, ChatGPT WordPress プラグイン, Claude WordPress, Gemini WordPress, AIブログ自動生成, YouTube ブログ 変換, AI画像生成 WordPress, DALL-E WordPress, AIチャットボット WordPress, SEO分析ツール WordPress, 無料 AI プラグイン, 記事自動作成 AI, ポッドキャスト ブログ 変換 AI, 内部リンク AI, OpenAI WordPress プラグイン, コンテンツ自動化 WordPress, AIライター ツール, ブログ記事 AI 作成, AI文章生成, 音声 文字起こし AI, コメント自動返信 AI, Cohere WordPress, Stable Diffusion WordPress"
   },
   "nav": {
     "home": "ホーム",
@@ -125,9 +125,13 @@
       ]
     },
     "pro": {
-      "name": "PRO",
-      "price": "$49",
+      "name": "Professional",
+      "price": "$83.88",
       "period": "年額",
+      "priceMonth": "$8.99",
+      "priceMonthPeriod": "/ 月",
+      "originalPrice": "$107.88",
+      "discount": "年払いで22％お得",
       "desc": "成長するサイトや代理店向けの無制限利用プラン。",
       "cta": "アップグレード",
       "badge": "最も人気",

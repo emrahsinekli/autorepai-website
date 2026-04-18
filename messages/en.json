@@ -3,7 +3,7 @@
     "siteName": "Auto RepAI",
     "tagline": "AI Content Generator for WordPress",
     "description": "Auto RepAI is the all-in-one AI content generator for WordPress. Generate blog posts, images, transcribe YouTube videos, audio, and more with OpenAI, Claude, Gemini, and Cohere.",
-    "keywords": "WordPress AI plugin, AI content generator, ChatGPT WordPress, Claude WordPress, Gemini WordPress, AI blog writer, YouTube to blog, audio to blog, AI image generator, AI chatbot, SEO analyzer"
+    "keywords": "WordPress AI plugin, AI content generator for WordPress, ChatGPT WordPress plugin, Claude WordPress, Gemini WordPress plugin, Cohere WordPress, AI blog writer, automatic blog post generator, YouTube to blog converter, audio to blog, podcast to blog, AI image generator WordPress, DALL-E WordPress, Stable Diffusion WordPress, AI chatbot for WordPress, SEO analyzer plugin, auto repair content, AI internal linker, AI comment reply, WordPress automation AI, OpenAI plugin, multi-source content generator, workflow automation WordPress, AI content tool, free AI plugin WordPress"
   },
   "nav": {
     "home": "Home",
@@ -125,9 +125,13 @@
       ]
     },
     "pro": {
-      "name": "PRO",
-      "price": "$49",
+      "name": "Professional",
+      "price": "$83.88",
       "period": "per year",
+      "priceMonth": "$8.99",
+      "priceMonthPeriod": "/ month",
+      "originalPrice": "$107.88",
+      "discount": "Save 22% with annual billing",
       "desc": "Unlimited usage for growing sites and agencies.",
       "cta": "Upgrade",
       "badge": "Most popular",

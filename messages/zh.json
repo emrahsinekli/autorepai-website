@@ -3,7 +3,7 @@
     "siteName": "Auto RepAI",
     "tagline": "面向 WordPress 的 AI 内容生成器",
     "description": "Auto RepAI 是面向 WordPress 的一体化 AI 内容生成器。使用 OpenAI、Claude、Gemini 和 Cohere 生成博客文章、图像，转录 YouTube 视频和音频等。",
-    "keywords": "WordPress AI 插件, AI 内容生成器, ChatGPT WordPress, Claude WordPress, Gemini WordPress, AI 博客写作, YouTube 转博客, 音频转博客, AI 图像生成器, AI 聊天机器人, SEO 分析器"
+    "keywords": "WordPress AI 插件, AI 内容生成器 WordPress, 人工智能 WordPress 插件, ChatGPT WordPress 插件, Claude WordPress, Gemini WordPress, AI 博客写作工具, YouTube 转博客文章, AI 图像生成 WordPress, DALL-E WordPress, AI 聊天机器人 WordPress, SEO 分析工具 WordPress, 免费 AI 插件, 自动写文章 AI, 播客转博客 AI, 内链优化 AI, OpenAI WordPress 插件, 内容自动化 WordPress, AI 写作助手, AI 文章生成, AI 文案工具, 音频转文字 AI, AI 自动回复评论, Cohere WordPress, Stable Diffusion WordPress"
   },
   "nav": {
     "home": "首页",
@@ -125,9 +125,13 @@
       ]
     },
     "pro": {
-      "name": "PRO",
-      "price": "$49",
+      "name": "Professional",
+      "price": "$83.88",
       "period": "每年",
+      "priceMonth": "$8.99",
+      "priceMonthPeriod": "/ 月",
+      "originalPrice": "$107.88",
+      "discount": "按年付费可节省 22%",
       "desc": "为成长型网站与代理机构提供无限使用。",
       "cta": "升级",
       "badge": "最受欢迎",

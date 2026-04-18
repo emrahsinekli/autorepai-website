@@ -216,6 +216,10 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
               name={tPricing("pro.name")}
               price={tPricing("pro.price")}
               period={tPricing("pro.period")}
+              priceMonth={tPricing("pro.priceMonth")}
+              priceMonthPeriod={tPricing("pro.priceMonthPeriod")}
+              originalPrice={tPricing("pro.originalPrice")}
+              discount={tPricing("pro.discount")}
               desc={tPricing("pro.desc")}
               cta={tPricing("pro.cta")}
               badge={tPricing("pro.badge")}
@@ -270,6 +274,10 @@ function PricingCard({
   name,
   price,
   period,
+  priceMonth,
+  priceMonthPeriod,
+  originalPrice,
+  discount,
   desc,
   cta,
   features,
@@ -279,6 +287,10 @@ function PricingCard({
   name: string;
   price: string;
   period: string;
+  priceMonth?: string;
+  priceMonthPeriod?: string;
+  originalPrice?: string;
+  discount?: string;
   desc: string;
   cta: string;
   features: string[];
@@ -300,11 +312,40 @@ function PricingCard({
       )}
       <h3 className="font-display text-xl font-bold">{name}</h3>
       <p className={`mt-1 text-sm ${highlighted ? "text-ink-200" : "text-ink-600"}`}>{desc}</p>
-      <div className="mt-6 flex items-baseline gap-1.5">
-        <span className="text-5xl font-display font-bold">{price}</span>
-        <span className={`text-sm ${highlighted ? "text-ink-400" : "text-ink-500"}`}>
-          / {period}
-        </span>
+      <div className="mt-6">
+        <div className="flex items-baseline gap-2 flex-wrap">
+          <span className="text-5xl font-display font-bold">{price}</span>
+          <span className={`text-sm ${highlighted ? "text-ink-400" : "text-ink-500"}`}>
+            / {period}
+          </span>
+          {originalPrice && (
+            <span
+              className={`text-base line-through ${
+                highlighted ? "text-ink-500" : "text-ink-400"
+              }`}
+            >
+              {originalPrice}
+            </span>
+          )}
+        </div>
+        {priceMonth && (
+          <div
+            className={`mt-1.5 text-xs ${highlighted ? "text-ink-300" : "text-ink-500"}`}
+          >
+            {priceMonth}
+            {priceMonthPeriod}
+          </div>
+        )}
+        {discount && (
+          <div
+            className={`mt-2 inline-flex items-center gap-1.5 text-xs font-semibold px-2.5 py-1 rounded-full ${
+              highlighted ? "bg-brand-500/20 text-brand-300" : "bg-brand-50 text-brand-700"
+            }`}
+          >
+            <Sparkles className="w-3 h-3" />
+            {discount}
+          </div>
+        )}
       </div>
       <a
         href="https://wordpress.org/plugins/auto-repai-ai-content-generator/"
