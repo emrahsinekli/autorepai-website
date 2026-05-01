@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 import { routing } from "@/i18n/routing";
 
 const SITE = "https://autorepai.com";
-const PAGES = ["", "/features", "/docs", "/privacy", "/terms"];
+const PAGES = ["", "/features", "/docs", "/about", "/privacy", "/terms"];
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const entries: MetadataRoute.Sitemap = [];
