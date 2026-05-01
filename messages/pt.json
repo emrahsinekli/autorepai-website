@@ -113,14 +113,15 @@
       "name": "Gratuito",
       "price": "$0",
       "period": "para sempre",
-      "desc": "Tudo o que precisa para lançar conteúdos com IA no WordPress.",
+      "desc": "Quatro ferramentas de IA poderosas, sem limites de utilização, com a sua própria chave OpenAI.",
       "cta": "Instalar agora",
       "features": [
-        "As 18 ferramentas de IA desbloqueadas",
-        "Todos os fornecedores de IA (OpenAI, Claude, Gemini, Cohere)",
-        "Todos os modelos de IA",
-        "Quota mensal generosa por ferramenta",
-        "30 dias de histórico de conteúdos",
+        "Gerador de conteúdo (GPT-4o)",
+        "Gerador de imagens com IA (DALL-E 3)",
+        "Reparação automática para conteúdos existentes",
+        "Edição rápida com IA no editor",
+        "Sem limites mensais de utilização",
+        "Use a sua própria chave de API OpenAI",
         "Suporte da comunidade"
       ]
     },
@@ -132,15 +133,22 @@
       "priceMonthPeriod": "/ mês",
       "originalPrice": "$107.88",
       "discount": "Poupe 22% com a faturação anual",
-      "desc": "Utilização ilimitada para sites em crescimento e agências.",
-      "cta": "Atualizar",
+      "desc": "Doze módulos avançados, todos os fornecedores de IA, suporte prioritário.",
+      "cta": "Obter Pro",
       "badge": "O mais popular",
       "features": [
-        "Tudo o que está incluído no plano Gratuito",
-        "Utilização ilimitada de todas as ferramentas",
-        "Histórico de conteúdos ilimitado",
-        "Suporte prioritário por e-mail",
-        "Acesso antecipado a novas funcionalidades"
+        "Tudo o que está no plano Free, e ainda:",
+        "YouTube para blog e Áudio para blog",
+        "Chatbot com IA e captação de potenciais clientes",
+        "Estúdio de fluxos de trabalho e Gerador multifonte",
+        "Resposta automática a comentários e Ligações internas com IA",
+        "Caderno de IA e Analisador de SEO",
+        "Pesquisa no Reddit e Monitor de marca",
+        "Painel de gestão de potenciais clientes",
+        "Anthropic Claude, Google Gemini, Cohere",
+        "Stability AI, Replicate, Leonardo AI, DeepAI",
+        "Todos os modelos OpenAI (GPT-4, o-series, etc.)",
+        "Suporte prioritário por e-mail"
       ]
     },
     "note": "O PRO remove o limite mensal flexível. Todas as funcionalidades permanecem idênticas. Utiliza sempre as suas próprias chaves de API de IA."

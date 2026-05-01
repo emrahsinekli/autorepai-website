@@ -113,14 +113,15 @@
       "name": "Free",
       "price": "$0",
       "period": "forever",
-      "desc": "Everything you need to launch AI content on WordPress.",
+      "desc": "Four powerful AI tools, no usage caps, your own OpenAI key.",
       "cta": "Install now",
       "features": [
-        "All 18 AI tools unlocked",
-        "All AI providers (OpenAI, Claude, Gemini, Cohere)",
-        "All AI models",
-        "Generous monthly allowance per tool",
-        "30 days content history",
+        "Content Generator (GPT-4o)",
+        "AI Image Generator (DALL-E 3)",
+        "Auto Repair for existing content",
+        "Quick AI Edit in the editor",
+        "No monthly usage limits",
+        "Bring your own OpenAI API key",
         "Community support"
       ]
     },
@@ -132,15 +133,22 @@
       "priceMonthPeriod": "/ month",
       "originalPrice": "$107.88",
       "discount": "Save 22% with annual billing",
-      "desc": "Unlimited usage for growing sites and agencies.",
-      "cta": "Upgrade",
+      "desc": "Twelve advanced modules, all AI providers, priority support.",
+      "cta": "Get Pro",
       "badge": "Most popular",
       "features": [
-        "Everything in Free",
-        "Unlimited usage for all tools",
-        "Unlimited content history",
-        "Priority email support",
-        "Early access to new features"
+        "Everything in Free, plus:",
+        "YouTube to Blog & Audio to Blog",
+        "AI Chatbot with lead capture",
+        "Workflow Studio & Multi-Source Generator",
+        "AI Comment Replier & Internal Linker",
+        "AI Notebook & SEO Analyzer",
+        "Reddit Research & Brand Monitor",
+        "Lead Management dashboard",
+        "Anthropic Claude, Google Gemini, Cohere",
+        "Stability AI, Replicate, Leonardo AI, DeepAI",
+        "All OpenAI models (GPT-4, o-series, etc.)",
+        "Priority email support"
       ]
     },
     "note": "PRO removes the monthly soft cap. All features remain identical. You always use your own AI API keys."

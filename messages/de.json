@@ -113,14 +113,15 @@
       "name": "Kostenlos",
       "price": "$0",
       "period": "für immer",
-      "desc": "Alles, was du brauchst, um KI-Content in WordPress zu starten.",
+      "desc": "Vier leistungsstarke KI-Tools, keine Nutzungsgrenzen, dein eigener OpenAI-Schlüssel.",
       "cta": "Jetzt installieren",
       "features": [
-        "Alle 18 KI-Tools freigeschaltet",
-        "Alle KI-Anbieter (OpenAI, Claude, Gemini, Cohere)",
-        "Alle KI-Modelle",
-        "Großzügiges Monatskontingent pro Tool",
-        "30 Tage Content-Verlauf",
+        "Content-Generator (GPT-4o)",
+        "KI-Bildgenerator (DALL-E 3)",
+        "Automatische Reparatur für vorhandene Inhalte",
+        "Schnelle KI-Bearbeitung im Editor",
+        "Keine monatlichen Nutzungslimits",
+        "Eigenen OpenAI-API-Schlüssel verwenden",
         "Community-Support"
       ]
     },
@@ -132,15 +133,22 @@
       "priceMonthPeriod": "/ Monat",
       "originalPrice": "$107.88",
       "discount": "Spare 22 % mit der Jahresabrechnung",
-      "desc": "Unbegrenzte Nutzung für wachsende Websites und Agenturen.",
-      "cta": "Upgrade",
+      "desc": "Zwölf erweiterte Module, alle KI-Anbieter, vorrangiger Support.",
+      "cta": "Pro holen",
       "badge": "Am beliebtesten",
       "features": [
-        "Alles aus dem kostenlosen Plan",
-        "Unbegrenzte Nutzung aller Tools",
-        "Unbegrenzter Content-Verlauf",
-        "Vorrangiger E-Mail-Support",
-        "Früher Zugriff auf neue Funktionen"
+        "Alles aus Free, dazu:",
+        "YouTube zu Blog und Audio zu Blog",
+        "KI-Chatbot mit Lead-Erfassung",
+        "Workflow-Studio und Multi-Quellen-Generator",
+        "KI-Kommentar-Antworter und Interner Verlinker",
+        "KI-Notizbuch und SEO-Analyzer",
+        "Reddit-Recherche und Markenüberwachung",
+        "Lead-Management-Dashboard",
+        "Anthropic Claude, Google Gemini, Cohere",
+        "Stability AI, Replicate, Leonardo AI, DeepAI",
+        "Alle OpenAI-Modelle (GPT-4, o-series usw.)",
+        "Vorrangiger E-Mail-Support"
       ]
     },
     "note": "PRO hebt das monatliche Softlimit auf. Alle Funktionen bleiben identisch. Du nutzt stets deine eigenen KI-API-Schlüssel."

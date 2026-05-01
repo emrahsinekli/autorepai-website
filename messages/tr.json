@@ -113,14 +113,15 @@
       "name": "Ücretsiz",
       "price": "$0",
       "period": "sonsuza dek",
-      "desc": "WordPress'te AI içerik başlatmak için ihtiyacın olan her şey.",
+      "desc": "Dört güçlü AI aracı, kullanım sınırı yok, kendi OpenAI anahtarın.",
       "cta": "Hemen kur",
       "features": [
-        "18 AI aracının tamamı açık",
-        "Tüm AI sağlayıcılar (OpenAI, Claude, Gemini, Cohere)",
-        "Tüm AI modelleri",
-        "Araç başına cömert aylık kullanım",
-        "30 gün içerik geçmişi",
+        "İçerik Üretici (GPT-4o)",
+        "AI Görsel Üretici (DALL-E 3)",
+        "Mevcut içerik için Otomatik Onarım",
+        "Editörde Hızlı AI Düzenleme",
+        "Aylık kullanım sınırı yok",
+        "Kendi OpenAI API anahtarını kullan",
         "Topluluk desteği"
       ]
     },
@@ -132,15 +133,22 @@
       "priceMonthPeriod": "/ ay",
       "originalPrice": "$107.88",
       "discount": "Yıllık faturalandırmada %22 indirim",
-      "desc": "Büyüyen siteler ve ajanslar için sınırsız kullanım.",
-      "cta": "Yükselt",
+      "desc": "On iki gelişmiş modül, tüm AI sağlayıcılar, öncelikli destek.",
+      "cta": "Pro'ya geç",
       "badge": "En popüler",
       "features": [
-        "Ücretsiz plandaki her şey",
-        "Tüm araçlar için sınırsız kullanım",
-        "Sınırsız içerik geçmişi",
-        "Öncelikli e-posta desteği",
-        "Yeni özelliklere erken erişim"
+        "Free plandaki her şey, ayrıca:",
+        "YouTube'dan Blog'a ve Ses'ten Blog'a",
+        "Potansiyel müşteri yakalamalı AI Chatbot",
+        "İş Akışı Stüdyosu ve Çoklu Kaynak Üreticisi",
+        "AI Yorum Yanıtlayıcı ve İç Bağlantı Aracı",
+        "AI Not Defteri ve SEO Analizcisi",
+        "Reddit Araştırması ve Marka İzleme",
+        "Potansiyel Müşteri Yönetim paneli",
+        "Anthropic Claude, Google Gemini, Cohere",
+        "Stability AI, Replicate, Leonardo AI, DeepAI",
+        "Tüm OpenAI modelleri (GPT-4, o-series, vb.)",
+        "Öncelikli e-posta desteği"
       ]
     },
     "note": "PRO, aylık yumuşak sınırı kaldırır. Tüm özellikler aynı kalır. Her zaman kendi AI API anahtarlarını kullanırsın."

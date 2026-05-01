@@ -113,14 +113,15 @@
       "name": "免费版",
       "price": "$0",
       "period": "永久",
-      "desc": "在 WordPress 上启动 AI 内容所需的一切。",
+      "desc": "四款强大 AI 工具，没有使用上限，使用您自己的 OpenAI 密钥。",
       "cta": "立即安装",
       "features": [
-        "解锁全部 18 款 AI 工具",
-        "支持所有 AI 提供商（OpenAI、Claude、Gemini、Cohere）",
-        "支持所有 AI 模型",
-        "每款工具提供充足的月度额度",
-        "30 天内容历史记录",
+        "内容生成器（GPT-4o）",
+        "AI 图像生成器（DALL-E 3）",
+        "针对现有内容的自动修复",
+        "编辑器内的快速 AI 编辑",
+        "无月度使用限制",
+        "使用您自己的 OpenAI API 密钥",
         "社区支持"
       ]
     },
@@ -132,15 +133,22 @@
       "priceMonthPeriod": "/ 月",
       "originalPrice": "$107.88",
       "discount": "按年付费可节省 22%",
-      "desc": "为成长型网站与代理机构提供无限使用。",
-      "cta": "升级",
+      "desc": "十二个高级模块，全部 AI 提供商，优先支持。",
+      "cta": "获取 Pro",
       "badge": "最受欢迎",
       "features": [
-        "包含免费版的所有功能",
-        "所有工具无限次使用",
-        "无限内容历史记录",
-        "优先邮件支持",
-        "抢先体验新功能"
+        "包含 Free 版的全部功能，另加：",
+        "YouTube 转博客与音频转博客",
+        "带潜在客户获取的 AI 聊天机器人",
+        "工作流工作室与多源生成器",
+        "AI 评论回复器与内部链接器",
+        "AI 笔记本与 SEO 分析器",
+        "Reddit 调研与品牌监测",
+        "潜在客户管理面板",
+        "Anthropic Claude、Google Gemini、Cohere",
+        "Stability AI、Replicate、Leonardo AI、DeepAI",
+        "所有 OpenAI 模型（GPT-4、o-series 等）",
+        "优先邮件支持"
       ]
     },
     "note": "PRO 取消每月的软性上限。所有功能保持一致。您始终使用自己的 AI API 密钥。"
